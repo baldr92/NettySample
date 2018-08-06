@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="org.httpobjects.netty:httpobjects-netty:0.7.0" type="repository">
+    <properties maven-id="org.httpobjects.netty:httpobjects-netty:0.7.0" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/httpobjects/netty/httpobjects-netty/0.7.0/httpobjects-netty-0.7.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/io/netty/netty/3.5.8.Final/netty-3.5.8.Final.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/httpobjects/httpobjects/0.7.0/httpobjects-0.7.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
